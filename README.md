@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hewlo 👋
 
-<img align='center' alt='JavaScript' title='JavaScript' src='https://media.tenor.com/aM-WSTBQdvsAAAAd/mari-blue-archive-mari-gym.gif'/>
+ <div align="center">
+    <img src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif">
+  </div>
