@@ -1,6 +1,6 @@
 ### Hewlo 👋
 
-<img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="200" align="left"/>
+<img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
 
 ```
 Console.log(
