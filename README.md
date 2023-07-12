@@ -1,9 +1,11 @@
 ### Hewlo 👋
-
+Welcome to
 <img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
 
+> Welcome to my playground
+
 ```
-Console.log(
+console.log(
     [
         'My Name Arifin Yunianta',
         'Undergraduate students From University Amikom Yogyakarta',
