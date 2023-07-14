@@ -36,7 +36,7 @@ console.log(
 
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
