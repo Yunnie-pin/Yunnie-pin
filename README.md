@@ -18,6 +18,8 @@ console.log(
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifin-yunianta)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yunnie-pin.github.io)
 
+<img alt="Logo" src="https://i.imgur.com/dwmSiQG.png" />
+
 ### 🛠 Tech Stack
 
 <img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/>
