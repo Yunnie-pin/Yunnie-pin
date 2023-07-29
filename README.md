@@ -18,11 +18,11 @@ console.log(
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifin-yunianta)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yunnie-pin.github.io)
 
-<img alt="Logo" src="https://i.imgur.com/dwmSiQG.png" />
+<a href="https://github.com/Yunnie-pin"><img alt="Logo" src="https://i.imgur.com/dwmSiQG.png" /></a>
 
 ### 🛠 Tech Stack
 
-<img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/>
+<a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/></a>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
@@ -47,7 +47,7 @@ console.log(
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/doc)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
-[![GitHub Action](https://img.shields.io/badge=-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
+[![GitHub Action](https://img.shields.io/badge/-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
