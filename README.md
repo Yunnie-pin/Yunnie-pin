@@ -1,6 +1,6 @@
 ### Hewlo 👋
 > Welcome to my playground
-<img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
+<a href="https://github.com/Yunnie-pin"><img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/></a>
 
 ```
 console.log(
@@ -24,30 +24,30 @@ console.log(
 
 <img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://docs.python.org/3/)&nbsp;
+[![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)](https://dart.dev/guides/)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)](https://www.cplusplus.com/doc/)&nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/docs/)&nbsp;
+[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/docs/)&nbsp;
+[![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)](https://vuejs.org/v2/guide/)&nbsp;
+[![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)](https://jupyter-notebook.readthedocs.io/en/stable/)&nbsp;
 
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+[![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)](https://dev.mysql.com/doc/)&nbsp;
+[![sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)](https://www.sqlite.org/docs.html)&nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/docs/)&nbsp;
 
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)](https://tailwindcss.com/docs/)&nbsp;
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/docs/)&nbsp;
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Action](https://img.shields.io/badge/-GitHub%20Action-05122A?style=flat&logo=githubactions)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/doc)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
+[![GitHub Action](https://img.shields.io/badge=-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
