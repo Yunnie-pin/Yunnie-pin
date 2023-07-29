@@ -1,6 +1,7 @@
 ### Hewlo 👋
 > Welcome to my playground
-<a href="https://github.com/Yunnie-pin"><img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/></a>
+
+<img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
 
 ```
 console.log(
