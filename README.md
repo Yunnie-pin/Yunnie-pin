@@ -50,6 +50,8 @@ console.log(
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
 [![GitHub Action](https://img.shields.io/badge/-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
 
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
+[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://docs.kernel.org/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
