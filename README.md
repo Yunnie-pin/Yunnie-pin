@@ -26,6 +26,7 @@ console.log(
 <a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/></a>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://docs.python.org/3/)&nbsp;
 [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)](https://dart.dev/guides/)&nbsp;
@@ -34,7 +35,7 @@ console.log(
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/docs/)&nbsp;
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/docs/)&nbsp;
-[![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)](https://vuejs.org/v2/guide/)&nbsp;
+[![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)](https://react.dev/)&nbsp;
 [![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)](https://jupyter-notebook.readthedocs.io/en/stable/)&nbsp;
 
 [![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)](https://dev.mysql.com/doc/)&nbsp;
