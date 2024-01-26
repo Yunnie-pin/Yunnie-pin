@@ -35,7 +35,7 @@ console.log(
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/docs/)&nbsp;
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/docs/)&nbsp;
-[![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)](https://react.dev/)&nbsp;
+[![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://react.dev/)&nbsp;
 [![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)](https://jupyter-notebook.readthedocs.io/en/stable/)&nbsp;
 
 [![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)](https://dev.mysql.com/doc/)&nbsp;
