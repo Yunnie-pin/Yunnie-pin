@@ -55,8 +55,6 @@ console.log(
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://docs.kernel.org/)
 
-<a href="https://github.com/Yunnie-pin"><img alt="Mari-pat-pat" src="https://i.imgur.com/GzzJSAh.gif" height="150" align="right"/></a>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
