@@ -23,7 +23,8 @@ console.log(
 
 ### 🛠 Tech Stack
 
-<a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="200" align="right"/></a>
+<a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="right"/></a>
+<a href="https://github.com/Yunnie-pin"><img alt="Mari-pat-pat" src="https://i.imgur.com/GzzJSAh.gif" height="150" align="right"/></a>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
@@ -55,7 +56,6 @@ console.log(
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://docs.kernel.org/)
 
-<img alt="Iochi-mari-gif" src="https://i.imgur.com/GzzJSAh.gif" height="100" align="center"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
