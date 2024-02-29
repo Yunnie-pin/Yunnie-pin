@@ -55,6 +55,8 @@ console.log(
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://docs.kernel.org/)
 
+<img alt="Iochi-mari-gif" src="https://i.imgur.com/GzzJSAh.gif" height="100" align="center"/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
