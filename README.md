@@ -24,6 +24,7 @@ console.log(
 
 <a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="right"/></a>
 
+[![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)](https://go.dev/doc/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
@@ -34,6 +35,7 @@ console.log(
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/docs/)&nbsp;
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/docs/)&nbsp;
+[![Next.Js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)](https://nextjs.org/docs/)&nbsp;
 [![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://react.dev/)&nbsp;
 [![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)](https://jupyter-notebook.readthedocs.io/en/stable/)&nbsp;
 
