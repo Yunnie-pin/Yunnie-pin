@@ -15,6 +15,7 @@ console.log(
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/artknight404)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifinklaten26@gmail.com)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunnie-pin)
+[![](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/yunnie-pin)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifin-yunianta)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yunnie-pin.github.io)
 
