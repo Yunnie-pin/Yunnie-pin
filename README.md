@@ -1,4 +1,4 @@
-### Hewlo 👋
+### Hewlo 👋🧊
 > Welcome to my playground
 
 <img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
@@ -7,8 +7,9 @@
 console.log(
     [
         'My Name Arifin Yunianta',
-        'Undergraduate students From University Amikom Yogyakarta',
-        'Computer science student who loves code and graphic design.'
+        'Graduated computer science student who loves code and blockchain stuff.'
+        'Now I am a fulltime backend developer.'
+        'But sometimes I take a break to do some jobs that relevant with my hobby',
     ]
 );
 ```
@@ -52,6 +53,7 @@ console.log(
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/doc)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
+[![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)](https://docs.gitlab.com/)&nbsp;
 [![GitHub Action](https://img.shields.io/badge/-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
