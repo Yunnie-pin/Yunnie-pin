@@ -68,3 +68,6 @@ console.log(
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunnie-pin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+[![An image of @yunniepin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yunniepin)](https://holopin.io/@yunniepin)
