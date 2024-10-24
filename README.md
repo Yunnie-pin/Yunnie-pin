@@ -42,6 +42,7 @@ console.log(
 [![Jupiter](https://img.shields.io/badge/-Jupiter%20Notebook-05122A?style=flat&logo=jupyter)](https://jupyter-notebook.readthedocs.io/en/stable/)&nbsp;
 
 [![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)](https://dev.mysql.com/doc/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org/docs/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://mongodb.com)&nbsp;
 [![sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)](https://www.sqlite.org/docs.html)&nbsp;
 [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/docs/)&nbsp;
