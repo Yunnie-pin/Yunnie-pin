@@ -22,6 +22,9 @@ console.log(
 
 [![readmebox](https://github.com/Yunnie-pin/Yunnie-pin/assets/72777947/9f3f0b64-59c8-46bf-ae00-8d1e5ca4dc95)](https://github.com/yunnie-pin)
 
+
+ <img src="https://indogithubers-badge.vercel.app/badge?username=Yunnie-pin&style=flat" alt="IndoGitHubers Badge">
+ 
 ### 🛠 Tech Stack
 
 <a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="right"/></a>
@@ -62,8 +65,6 @@ console.log(
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
- <img src="https://indogithubers-badge.vercel.app/badge?username=Yunnie-pin&style=flat" alt="IndoGitHubers Badge">
 
 <p align="center">
 <a href="https://github.com/yunnie-pin">
