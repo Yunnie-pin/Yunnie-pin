@@ -36,7 +36,7 @@ console.log(
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://docs.python.org/3/)&nbsp;
 [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)](https://dart.dev/guides/)&nbsp;
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)](https://www.cplusplus.com/doc/)&nbsp;
+[![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)](https://docs.soliditylang.org/)&nbsp;
 
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/docs/)&nbsp;
