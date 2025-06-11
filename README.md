@@ -57,11 +57,6 @@ console.log(
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)&nbsp;
 [![NSQ](https://img.shields.io/badge/-NSQ-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAIB9JREFUeNrsndt7FMeZxquV+GysEdgcBMICO95s9kbc766lJHYM2JaIjeMDLFKOm+TC8BcAf4HhZnezG1tSMI5twJJ8CuAkFuvce252n92NY2RAnAxoBnyI7Ti1VX1Sz0xPT3VXdXV39fs+zyCpGfW0+qv3V19V14EQCIIgCIIgCIJKJAu3oGQBn7pSIZTsZN8+TQmpuIdr7LWffHfpHtwhAAAy2fyEvM0AMMB/ps1voLTK/h0ijyyr4W6VQ124BSUJNDO/xc1PHPO30YANiCOXK7hjAABkkPlJZ/MDAgAAVHLzAwIAAGSKviKW9kdD4DAgAABAxTP/NKv5rcTmBwQAAKjQ5ifS5m+CwCVA...)](https://nsq.io/docs/)
 
-[![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)](https://tailwindcss.com/docs/)&nbsp;
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/docs/)&nbsp;
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
-
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/doc)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
 [![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)](https://docs.gitlab.com/)&nbsp;
