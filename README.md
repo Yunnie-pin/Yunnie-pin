@@ -1,7 +1,7 @@
 ### Hewlo 👋🧊
 > Welcome to my playground
 
-<img alt="Logo" src="https://yunnie-pin.github.io/assets/logoputih5x5.png" height="100" align="left"/>
+<img alt="Logo" src="https://i.imgur.com/pnnjpOw.png" height="100" align="left"/>
 
 ```
 console.log(
@@ -28,7 +28,9 @@ console.log(
  
 ### 🛠 Tech Stack
 
-<a href="https://github.com/Yunnie-pin"><img alt="Mari coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="right"/></a>
+<a><img alt="Mari coy" src="https://media1.tenor.com/m/Xq-i_4ut1KQAAAAC/blue-archive-blue-archive-mari.gif" height="150" align="right"/></a>
+
+<a><img alt="Mari 2 coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="left"/></a>
 
 [![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)](https://go.dev/doc/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
@@ -50,20 +52,26 @@ console.log(
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://mongodb.com)&nbsp;
 [![sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)](https://www.sqlite.org/docs.html)&nbsp;
 [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/docs/)&nbsp;
+[![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)](https://supabase.com/docs)&nbsp;
 
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-05122A?style=flat&logo=clickhouse)](https://clickhouse.com/docs/en/)&nbsp;
+[![CockroachDB](https://img.shields.io/badge/-CockroachDB-05122A?style=flat&logo=cockroachlabs)](https://www.cockroachlabs.com/docs/)&nbsp;
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://docs.docker.com/)&nbsp;
 [![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)](https://kafka.apache.org/documentation/)&nbsp;
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)](https://redis.io/docs/)&nbsp;
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)&nbsp;
-[![NSQ](https://img.shields.io/badge/-NSQ-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAIB9JREFUeNrsndt7FMeZxquV+GysEdgcBMICO95s9kbc766lJHYM2JaIjeMDLFKOm+TC8BcAf4HhZnezG1tSMI5twJJ8CuAkFuvce252n92NY2RAnAxoBnyI7Ti1VX1Sz0xPT3VXdXV39fs+zyCpGfW0+qv3V19V14EQCIIgCIIgCIJKJAu3oGQBn7pSIZTsZN8+TQmpuIdr7LWffHfpHtwhAAAy2fyEvM0AMMB/ps1voLTK/h0ijyyr4W6VQ124BSUJNDO/xc1PHPO30YANiCOXK7hjAABkkPlJZ/MDAgAAVHLzAwIAAGSKviKW9kdD4DAgAABAxTP/NKv5rcTmBwQAAKjQ5ifS5m+CwCVA...)](https://nsq.io/docs/)
 
-[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/doc)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://docs.github.com/en)&nbsp;
-[![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)](https://docs.gitlab.com/)&nbsp;
-[![GitHub Action](https://img.shields.io/badge/-GitHub%20Action-05122A?style=flat&logo=githubactions)](https://docs.github.com/en/actions)
-
+[![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry)](https://docs.sentry.io/)&nbsp;
+[![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)](https://nginx.org/en/docs/)&nbsp;
+[![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)](https://prometheus.io/docs/introduction/overview/)&nbsp;
+[![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)](https://grafana.com/docs/grafana/latest/)&nbsp;
+[![N8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)](https://docs.n8n.io/)&nbsp;
+[![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)](https://ethereum.org/en/developers/docs/)&nbsp;
+[![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=redhat)](https://hardhat.org/getting-started/)&nbsp;
+[![Thirdweb SDK](https://img.shields.io/badge/-Thirdweb%20SDK-05122A?style=flat&logo=thirdweb)](https://portal.thirdweb.com/sdk)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://help.ubuntu.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://docs.kernel.org/)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
