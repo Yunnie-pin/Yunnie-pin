@@ -32,7 +32,7 @@ console.log(
 
 <a><img alt="Mari 2 coy" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="150" align="left"/></a>
 
-[![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)](https://go.dev/doc/)&nbsp;
+[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/doc/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/manual/en/)&nbsp;
