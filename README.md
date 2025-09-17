@@ -85,3 +85,7 @@ console.log(
 
 
 [![An image of @yunniepin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yunniepin)](https://holopin.io/@yunniepin)
+
+
+[![ETH Wallet](https://img.shields.io/badge/ETH-0xF16c2eA4306eD3FB616ba426B9D43808e1a8f9D7-3c3c3d?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xF16c2eA4306eD3FB616ba426B9D43808e1a8f9D7)
+[![Solana Wallet](https://img.shields.io/badge/SOL-8F5g51QWT6R49B9P9NDJamZFZahYz8Tim924NhTdGeTR-3b5998?style=flat-square&logo=solana&logoColor=white)](https://solscan.io/account/8F5g51QWT6R49B9P9NDJamZFZahYz8Tim924NhTdGeTR)
